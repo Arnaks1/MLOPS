@@ -177,3 +177,6 @@ cython_debug/
 # Yml and pkl files
 *.yml
 *.pkl
+
+#Data
+data
