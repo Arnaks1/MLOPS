@@ -180,3 +180,9 @@ cython_debug/
 
 #Data
 data
+
+# Screenshots
+*.png
+
+# Logs
+mlruns/
