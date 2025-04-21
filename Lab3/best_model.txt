@@ -1,0 +1,1 @@
+/C:/ProgramData/Jenkins/.jenkins/workspace/download/Lab3/mlruns/486153196682814642/49442a72fa784230b61813e6ba0309b8/artifacts/model
