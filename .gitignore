@@ -186,3 +186,6 @@ data
 
 # Logs
 mlruns/
+
+
+*.csv
